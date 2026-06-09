@@ -1,5 +1,5 @@
 ## Main Hub
 
 Explore my individual project tracks:
-* [Scientific Research & Methods](research/)
 * [Data Engineering & AI](engineering/)
+* [Scientific Research & Methods](research/)

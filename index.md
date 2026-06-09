@@ -4,5 +4,5 @@ Explore my individual project tracks:
 * [Data Engineering & AI](engineering/)
 * [Scientific Research & Methods](research/)
 
-More about my interests:
+About:
 * [Bio](bio/)

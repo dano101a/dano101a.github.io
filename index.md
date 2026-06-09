@@ -1,4 +1,4 @@
-## Engh.Tech
+## Resources
 
 Explore my individual project tracks:
 * [Scientific Research & Methods](research/)

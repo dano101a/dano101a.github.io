@@ -1,6 +1,6 @@
 # Research Hub
 
-Welcome to the research directory.
+Welcome to my research directory.
 
 ## Project Directory
 

@@ -1,4 +1,4 @@
-## Resources
+## Home
 
 Explore my individual project tracks:
 * [Scientific Research & Methods](research/)

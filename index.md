@@ -1,5 +1,5 @@
 ## Engh.Tech
 
-Explore the individual project tracks:
+Explore my individual project tracks:
 * [Scientific Research & Methods](research/)
 * [Data Engineering & AI](engineering/)

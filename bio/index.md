@@ -11,7 +11,7 @@ Daniel Engh is a data and analytics professional with experience spanning data e
 
 ## Links
 
-* LinkedIn: https://www.linkedin.com/in/daniel-engh-28276b147/
+- [LinkedIn](https://www.linkedin.com/in/daniel-engh-28276b147/)
 
 ---
 [← Back to Home](/)

@@ -1,4 +1,4 @@
-## Website Directory
+## Engh.Tech
 
 Explore the individual project tracks:
 * [Scientific Research & Methods](research/)

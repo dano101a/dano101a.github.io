@@ -1,4 +1,4 @@
-## Home
+## Main Hub
 
 Explore my individual project tracks:
 * [Scientific Research & Methods](research/)

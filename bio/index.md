@@ -13,6 +13,7 @@ Daniel Engh is a data and analytics professional with experience spanning data e
 
 - [LinkedIn](https://www.linkedin.com/in/daniel-engh-28276b147/)
 - [ORCID](https://orcid.org/0009-0008-5945-891X/)
+- [GitHub](https://github.com/dano101a/)
 
 ---
 [← Back to Home](/)
